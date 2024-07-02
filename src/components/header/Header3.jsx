@@ -93,8 +93,9 @@ function Header3() {
         </div>
         <div className="sidebar-content">
           <p>
-            We deliver sofware solutions to simply business operations and
-            processes
+            Welcome to NexPetro Private Limited, a reputable brand ushering
+            Petroleum and Bituminous products, Industrial and Agricultural
+            Chemicals in the Zimbabwean market and beyond.
           </p>
         </div>
         <div className="address-card">

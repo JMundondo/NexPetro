@@ -83,11 +83,21 @@ function Banner3() {
           <SwiperSlide className="swiper-slide">
             <div className="banner-wrapper">
               <div className="banner-content">
-                <h1>Grow Your Business With Innovative Ideas.</h1>
+                <h1>Elevate Your Business with NexPetro</h1>
                 <p>
-                  We deliver sofware solutions to simply business operations and
-                  processes
-                </p>
+                  At NexPetro, we are dedicated to providing top-quality
+                  petroleum, bituminous products, industrial and agricultural
+                  chemicals to businesses across Zimbabwe and beyond. With our
+                  deep expertise and market insights, we deliver innovative
+                  solutions tailored to your unique needs. Partner with NexPetro
+                  and unlock new opportunities for growth. Our reliable supply,
+                  exceptional customer service, and commitment to excellence
+                  will empower your business to reach new heights.{" "}
+                </p>{" "}
+                Trusted by leading organizations, NexPetro is a registered
+                supplier with the Procurement Regulatory Authority of Zimbabwe.
+                Experience the difference that innovative ideas and reliable
+                products can make for your business
                 <div className="banner-btn-group">
                   <Link legacyBehavior href="/contact">
                     <a className="primary-btn3">Free Consultancy</a>
@@ -111,11 +121,13 @@ function Banner3() {
                 </div>
               </div>
               <div className="banner-image magnetic-item">
-                <img
-                  className="img-fluid"
-                  src="assets/img/home-3/home3-banner-img.jpg"
-                  alt=""
-                />
+                <div className="col-12">
+                  <img
+                    className="img-fluid img-lg"
+                    src="assets/img/home-3/home3-banner-img.jpeg"
+                    alt=""
+                  />
+                </div>
               </div>
               <div className="banner-video-area">
                 <div className="video-area">
@@ -149,10 +161,12 @@ function Banner3() {
           <SwiperSlide className="swiper-slide">
             <div className="banner-wrapper">
               <div className="banner-content">
-                <h1>Explore opportunities to grow your business.</h1>
+                <h1>Trusted by Leading Organizations.</h1>
                 <p>
-                  Unleash Your Potential, Transform Your Tomorrow. Experience
-                  Growth Through Innovative Solutions..
+                  Trusted by leading organizations, NexPetro is a registered
+                  supplier with the Procurement Regulatory Authority of
+                  Zimbabwe. Experience the difference that innovative ideas and
+                  reliable products can make for your business.
                 </p>
                 <div className="banner-btn-group">
                   <Link legacyBehavior href="/contact">
@@ -217,10 +231,15 @@ function Banner3() {
           <SwiperSlide className="swiper-slide">
             <div className="banner-wrapper">
               <div className="banner-content">
-                <h1>Grow Your Business With Creative Minds.</h1>
+                <h1>Commitment to Sustainability.</h1>
                 <p>
-                  Revolutionize Your Business Landscape. Fuel Growth Through
-                  Visionary Software Solutions.
+                  At NexPetro, we believe in sustainable practices that protect
+                  the environment while driving business success. Our products
+                  and operations adhere to the highest safety and environmental
+                  standards, ensuring a greener future for all. Join the
+                  NexPetro family and experience the power of innovative
+                  solutions, reliable supply, and sustainable practices.
+                  Together, let's take your business to new heights.{" "}
                 </p>
                 <div className="banner-btn-group">
                   <Link legacyBehavior href="/contact">
