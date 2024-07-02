@@ -193,7 +193,7 @@ function Banner3() {
               <div className="banner-image magnetic-item">
                 <img
                   className="img-fluid"
-                  src="assets/img/home-3/home3-banner-img3.jpg"
+                  src="assets/img/home-3/home3-banner-img3.jpeg"
                   alt=""
                 />
               </div>
@@ -266,7 +266,7 @@ function Banner3() {
               <div className="banner-image magnetic-item">
                 <img
                   className="img-fluid"
-                  src="assets/img/home-3/home3-banner-img2.jpg"
+                  src="assets/img/home-3/home3-banner-img2.jpeg"
                   alt=""
                 />
               </div>
