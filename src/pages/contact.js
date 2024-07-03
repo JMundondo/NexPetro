@@ -37,7 +37,7 @@ function Contactpage() {
                 <span>CONTACT WITH US</span>
                 <h2>LET’S WORK TOGETHER?</h2>
                 <p>
-                  I have worls-class, flexible support via live chat, email and
+                  We have worls-class, flexible support via live chat, email and
                   hone. I guarantee that you’ll be able to have any issue
                   resolved within 24 hours.
                 </p>
@@ -47,10 +47,7 @@ function Contactpage() {
                       <i className="fas fa-map-marker-alt" />
                     </div>
                     <div className="info">
-                      <p>
-                        House 1 Arch Jide Ololade street,Ebute-Igbogbo Rd.,
-                        Ikorodu, Lagos
-                      </p>
+                      <p>Gweru Something</p>
                     </div>
                   </div>
                   <div className="single-info">
@@ -58,7 +55,7 @@ function Contactpage() {
                       <i className="fas fa-phone-alt" />
                     </div>
                     <div className="info">
-                      <a href="tel:05661111985">(+234)08185431319</a>
+                      <a href="tel:+263772270979">+263 77 227 0979</a>
                     </div>
                   </div>
                   <div className="single-info">
@@ -67,7 +64,7 @@ function Contactpage() {
                     </div>
                     <div className="info">
                       <a href="mailto: info@pacific-professional.com.ng">
-                        info@pacific-professional.com.ng
+                        songwef@gmail.com
                       </a>
                     </div>
                   </div>

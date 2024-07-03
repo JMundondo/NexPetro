@@ -14,17 +14,14 @@ function AboutPage() {
     <Layout>
       <Breadcrumb
         pageList="About"
-        title="Get To Know About Pacific-tech"
+        title="Get To Know About NexPetro Private Limited"
         pageName="ABOUT"
       />
       <About3 />
-      <Choose6 />
-      <Feature4 />
-      <Partnar4 />
+
       <Testimonial3 />
       <Home3Team />
       <Home3Contact />
-      <Home3Blog />
     </Layout>
   );
 }

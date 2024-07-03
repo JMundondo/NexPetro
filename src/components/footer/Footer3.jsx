@@ -59,7 +59,7 @@ function Footer3() {
                   <div className="content">
                     <span>Call Any Time</span>
                     <h6>
-                      <a href="tel: +2348185431319">(+234)08185431319</a>
+                      <a href="tel: +263716048432">+263 71 604 8432</a>
                     </h6>
                   </div>
                 </div>
@@ -84,10 +84,7 @@ function Footer3() {
                   </svg>
                   Address
                 </h4>
-                <a href="#">
-                  House 1 Arch Jide Ololade street,Ebute-Igbogbo Rd., Ikorodu,
-                  Lagos
-                </a>
+                <a href="#">something Gweru</a>
               </div>
               <div className="footer-contact mb-40">
                 <h4>
@@ -101,9 +98,7 @@ function Footer3() {
                   </svg>
                   Say Hello
                 </h4>
-                <a href="mailto:info@pacific-professional.com.ng">
-                  info@pacific-professional.com.ng
-                </a>
+                <a href="mailto:songwef@gmail.com">songwef@gmail.com</a>
               </div>
               <div className="footer-contact">
                 <h6>See Our New updates</h6>
@@ -137,38 +132,38 @@ function Footer3() {
           <div className="col-lg-3 col-sm-6 d-flex justify-content-lg-start justify-content-sm-end">
             <div className="footer-widget">
               <div className="widget-title">
-                <h4>Our Solutions</h4>
+                <h4>Our Products</h4>
               </div>
               <div className="menu-container">
                 <ul>
                   <li>
                     <Link legacyBehavior href="/service">
-                      <a>Software Development</a>
+                      <a>BITUMEN</a>
                     </Link>
                   </li>
                   <li>
                     <Link legacyBehavior href="/service">
-                      <a>Web Development</a>
+                      <a>FERTILIZER</a>
                     </Link>
                   </li>
                   <li>
                     <Link legacyBehavior href="/service">
-                      <a>Mobile (Andriod and IOS) Development</a>
+                      <a>BASE OIL</a>
                     </Link>
                   </li>
                   <li>
                     <Link legacyBehavior href="/service">
-                      <a>Cloud Services</a>
+                      <a>FUEL OIL</a>
                     </Link>
                   </li>
                   <li>
                     <Link legacyBehavior href="/service">
-                      <a>Training and Staff Development</a>
+                      <a>GASS OIL</a>
                     </Link>
                   </li>
                   <li>
                     <Link legacyBehavior href="/service">
-                      <a>Talent Recruitment and Outsourcing</a>
+                      <a>EN 590</a>
                     </Link>
                   </li>
                 </ul>
@@ -192,21 +187,13 @@ function Footer3() {
                       <a>Case Study</a>
                     </Link>
                   </li> */}
-                  <li>
-                    <Link legacyBehavior href="/blog">
-                      <a>News &amp Article;</a>
-                    </Link>
-                  </li>
+                  <li></li>
                   <li>
                     <Link legacyBehavior href="/team">
                       <a>Our Team</a>
                     </Link>
                   </li>
-                  <li>
-                    <Link legacyBehavior href="/project">
-                      <a>All Portfolio</a>
-                    </Link>
-                  </li>
+                  <li></li>
                 </ul>
               </div>
             </div>

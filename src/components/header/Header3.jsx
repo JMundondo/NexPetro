@@ -211,26 +211,19 @@ function Header3() {
                 }`}
                 onClick={() => toggleMenu("service")}
               >
-                Service
+                Products
               </a>{" "}
             </li>
-            <li className="menu-item">
-              <a href="/project-masonary" className="drop-down">
-                Project
-              </a>
-            </li>
-            <li className="menu-item">
-              <a href="/case-study-standard">Case Study</a>
-            </li>
+
             <li className="menu-item">
               <a
-                href="/blog"
+                href="/contact"
                 className={`drop-down ${
                   state.activeMenu === "blog" ? "active" : ""
                 }`}
                 onClick={() => toggleMenu("blog")}
               >
-                Blog
+                Contact Us
               </a>
             </li>
           </ul>

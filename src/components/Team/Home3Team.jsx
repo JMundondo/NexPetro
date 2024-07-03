@@ -13,13 +13,15 @@ function Home3Team() {
             <div className="section-title-3 text-center">
               <h2>Team Members</h2>
               <p>
-                Welcome to Pacific Tech - Your one-stop solution for software
-                excellence, talent recruitment, seamless database migration, and
-                empowering coaching with comprehensive training. As a dynamic
-                software agency, we provide cutting-edge solutions tailored to
-                your needs. From assembling the right team to seamless
-                migrations and skill empowerment, partner with us to elevate
-                your business with innovation and expertise.
+                Welcome to NexPetro Private Limited, a reputable brand ushering
+                Petroleum and Bituminous products, Industrial and Agricultural
+                Chemicals in the Zimbabwean market and beyond. Our dedication is
+                to offer top class in our wide range of products and services
+                focused at forming lasting partnerships with our valued client
+                base. We have a strong backing of expertise in various lines of
+                professions which is an enabler on our part to read, understand
+                and respond most accordingly to the market trends and demands in
+                catering fully and effectively for our customers’ diverse needs.
               </p>
             </div>
           </div>
@@ -40,12 +42,12 @@ function Home3Team() {
                 <div className="expert-social">
                   <ul className="follow-list d-flex flex-row align-items-start gap-4">
                     <li>
-                      <a href="https://web.facebook.com/ppslimited">
+                      <a href="#">
                         <i className="bx bxl-facebook" />
                       </a>
                     </li>
                     <li>
-                      <a href="https://www.instagram.com/pacific_technology_service">
+                      <a href="#">
                         <i className="bx bxl-instagram" />
                       </a>
                     </li>
@@ -53,8 +55,8 @@ function Home3Team() {
                 </div>
               </div>
               <div className="experts-content">
-                <h4>Tope Afuye</h4>
-                <span>Lead Software Engineer</span>
+                <h4>Tinashe</h4>
+                <span>Sales</span>
               </div>
             </div>
           </div>
@@ -73,12 +75,12 @@ function Home3Team() {
                 <div className="expert-social">
                   <ul>
                     <li>
-                      <a href="https://web.facebook.com/ppslimited">
+                      <a href="#">
                         <i className="bx bxl-facebook" />
                       </a>
                     </li>
                     <li>
-                      <a href="https://www.instagram.com/pacific_technology_service">
+                      <a href="#">
                         <i className="bx bxl-instagram" />
                       </a>
                     </li>
@@ -86,8 +88,8 @@ function Home3Team() {
                 </div>
               </div>
               <div className="experts-content">
-                <h4>Ademola Segun</h4>
-                <span>Software Engineer</span>
+                <h4>Tanaka</h4>
+                <span>supply Chain and Logistics</span>
               </div>
             </div>
           </div>
@@ -106,22 +108,22 @@ function Home3Team() {
                 <div className="expert-social">
                   <ul>
                     <li>
-                      <a href="https://www.facebook.com/">
+                      <a href="#">
                         <i className="bx bxl-facebook" />
                       </a>
                     </li>
                     <li>
-                      <a href="https://twitter.com/pacific_nig">
+                      <a href="#">
                         <i className="bx bxl-twitter" />
                       </a>
                     </li>
                     <li>
-                      <a href="https://www.instagram.com/">
+                      <a href="#">
                         <i className="bx bxl-pinterest-alt" />
                       </a>
                     </li>
                     <li>
-                      <a href="https://www.pinterest.com/">
+                      <a href="#">
                         <i className="bx bxl-instagram" />
                       </a>
                     </li>
@@ -129,8 +131,8 @@ function Home3Team() {
                 </div>
               </div>
               <div className="experts-content">
-                <h4>Ayodele Agbowuro</h4>
-                <span>Software Engineer</span>
+                <h4>Dr Songwe</h4>
+                <span>Director</span>
               </div>
             </div>
           </div>
@@ -149,22 +151,22 @@ function Home3Team() {
                 <div className="expert-social">
                   <ul>
                     <li>
-                      <a href="https://www.facebook.com/">
+                      <a href="#">
                         <i className="bx bxl-facebook" />
                       </a>
                     </li>
                     <li>
-                      <a href="https://twitter.com/pacific_nig">
+                      <a href="#">
                         <i className="bx bxl-twitter" />
                       </a>
                     </li>
                     <li>
-                      <a href="https://www.instagram.com/">
+                      <a href="#">
                         <i className="bx bxl-pinterest-alt" />
                       </a>
                     </li>
                     <li>
-                      <a href="https://www.pinterest.com/">
+                      <a href="#/">
                         <i className="bx bxl-instagram" />
                       </a>
                     </li>
@@ -172,7 +174,7 @@ function Home3Team() {
                 </div>
               </div>
               <div className="experts-content">
-                <h4>Jesse Afuye</h4>
+                <h4>Takudzwa Something</h4>
                 <span>Software Intern</span>
               </div>
             </div>

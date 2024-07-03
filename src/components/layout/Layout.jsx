@@ -11,13 +11,10 @@ function Layout({ children }) {
   return (
     <>
       <Head>
-        <title>
-          Pacific Technology Service | Lagos | Website, Android, and iOS App
-          Development
-        </title>
+        <title>NexPetro Private Limited</title>
         <meta
           name="description"
-          content="Pacific Technology Service specializes in high-quality web, Android, and iOS app development in Lagos. Elevate your business with our expert solutions. Contact us for innovative digital experiences. (08114890462)"
+          content="Welcome to NexPetro Private Limited, a reputable brand ushering Petroleum and Bituminous products, Industrial and Agricultural Chemicals in the Zimbabwean market and beyond. Our dedication is to offer top class in our wide range of products and services focused at forming lasting partnerships with our valued client base.  We have a strong backing of expertise in various lines of professions which is an enabler on our part to read, understand and respond most accordingly to the market trends and demands in catering fully and effectively for our customers’ diverse needs."
         />
         <link rel="icon" href="/assets/img/logo_small_light.png" />
       </Head>
