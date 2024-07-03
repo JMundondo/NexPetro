@@ -114,8 +114,8 @@ function Header3() {
                   <i className="fas fa-phone-alt" />
                 </div>
                 <div className="info">
-                  <a href="tel:05661111985">+(234)8185431319</a>
-                  <a href="tel:06571111576">+(234)8185431319</a>
+                  <a href="tel:05661111985">+263 77 227 0979</a>
+                  <a href="tel:06571111576">+263 77 227 0979</a>
                 </div>
               </div>
               <div className="single-info">
@@ -123,11 +123,8 @@ function Header3() {
                   <i className="far fa-envelope" />
                 </div>
                 <div className="info">
-                  <a href="mailto: info@example.com">info@example.com</a>
-                  <a href="mailto:  info@pacific-professional.com.ng">
-                    {" "}
-                    info@pacific-professional.com.ng
-                  </a>
+                  <a href="mailto: songwe@gmail.com">songwe@gmail.com</a>
+                  <a href="mailto:  songwe@gmail.com"> songwe@gmail.com</a>
                 </div>
               </div>
             </div>
@@ -245,7 +242,7 @@ function Header3() {
                 <div className="hotline-info">
                   <span>Call Us Now</span>
                   <h6>
-                    <a href="tel:29658718617">2-965-871-8617</a>
+                    <a href="tel:+263772270979">+263 77 227 0979</a>
                   </h6>
                 </div>
               </div>
@@ -265,7 +262,7 @@ function Header3() {
                 <div className="email-info">
                   <span>Email Now</span>
                   <h6>
-                    <a href="mailto:example@gmail.com">example@gmail.com</a>
+                    <a href="mailto:example@gmail.com">songwe@gmail.com</a>
                   </h6>
                 </div>
               </div>
