@@ -11,7 +11,7 @@ function Home3Team() {
         >
           <div className="col-lg-12 d-flex justify-content-center">
             <div className="section-title-3 text-center">
-              <h2>Team Members</h2>
+              <h2 class="text-success">Team Members</h2>
               <p>
                 Welcome to NexPetro Private Limited, a reputable brand ushering
                 Petroleum and Bituminous products, Industrial and Agricultural
@@ -55,8 +55,8 @@ function Home3Team() {
                 </div>
               </div>
               <div className="experts-content">
-                <h4>Tinashe</h4>
-                <span>Sales</span>
+                <h4 class="text-success">Tinashe</h4>
+                <span class="text-success">Sales</span>
               </div>
             </div>
           </div>
@@ -88,8 +88,8 @@ function Home3Team() {
                 </div>
               </div>
               <div className="experts-content">
-                <h4>Tanaka</h4>
-                <span>supply Chain and Logistics</span>
+                <h4 class="text-success">Tanaka</h4>
+                <span class="text-success">supply Chain and Logistics</span>
               </div>
             </div>
           </div>
@@ -131,8 +131,8 @@ function Home3Team() {
                 </div>
               </div>
               <div className="experts-content">
-                <h4>Dr Songwe</h4>
-                <span>Director</span>
+                <h4 class="text-success">Dr Songwe</h4>
+                <span class="text-success">Director</span>
               </div>
             </div>
           </div>
@@ -174,8 +174,8 @@ function Home3Team() {
                 </div>
               </div>
               <div className="experts-content">
-                <h4>Takudzwa Something</h4>
-                <span>Software Intern</span>
+                <h4 class="text-success">Takudzwa Something</h4>
+                <span class="text-success">Software Intern</span>
               </div>
             </div>
           </div>

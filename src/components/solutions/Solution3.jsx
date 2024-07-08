@@ -59,7 +59,7 @@ function Solution3() {
         >
           <div className="col-lg-12 d-flex align-items-center justify-content-between gap-4 flex-wrap">
             <div className="section-title-3">
-              <h2>Our Products</h2>
+              <h2 class="text-success">Our Products</h2>
               <p>
                 Welcome to NexPetro Private Limited, a reputable brand ushering
                 Petroleum and Bituminous products, Industrial and Agricultural
@@ -104,7 +104,7 @@ function Solution3() {
                     <div className="solution-content">
                       <h4>
                         <Link legacyBehavior href="/service-details">
-                          <a>BITUMEN</a>
+                          <a class="text-success">BITUMEN</a>
                         </Link>
                       </h4>
                       <p>
@@ -130,7 +130,7 @@ function Solution3() {
                     <div className="solution-content">
                       <h4>
                         <Link legacyBehavior href="/service-details">
-                          <a>FERTILIZER</a>
+                          <a class="text-success">FERTILIZER</a>
                         </Link>
                       </h4>
                       <p>Urea 46% Granular Urea Pilled Urea Solfur .</p>
@@ -151,7 +151,7 @@ function Solution3() {
                     <div className="solution-content">
                       <h4>
                         <Link legacyBehavior href="/service-details">
-                          <a>BASE OIL</a>
+                          <a class="text-success">BASE OIL</a>
                         </Link>
                       </h4>
                       <p>VIRGIN & RECYCLE, SN 70 , SN 150 , SN 350 , SN 500</p>
@@ -172,7 +172,7 @@ function Solution3() {
                     <div className="solution-content">
                       <h4>
                         <Link legacyBehavior href="/service-details">
-                          <a>FUEL OIL </a>
+                          <a class="text-success">FUEL OIL </a>
                         </Link>
                       </h4>
                       <p>GASS OIL EN 590 D2</p>

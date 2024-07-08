@@ -17,7 +17,7 @@ function About3() {
               data-wow-delay="200ms"
               data-wow-duration="1500ms"
             >
-              <h2>Our Approach</h2>
+              <h2 class="text-success">Our Approach</h2>
               <p>
                 Welcome to NexPetro Private Limited, a reputable brand ushering
                 Petroleum and Bituminous products, Industrial and Agricultural
@@ -47,7 +47,9 @@ function About3() {
                 data-wow-delay="400ms"
                 data-wow-duration="1500ms"
               >
-                <h2>Unlock the potential of your business.</h2>
+                <h2 class="text-success">
+                  Unlock the potential of your business.
+                </h2>
                 <p>
                   We believe in delivering tailored solutions that are designed
                   to address your unique requirements. We take the time to
@@ -57,11 +59,11 @@ function About3() {
                 <div className="devider" />
                 <ul className="about-feature">
                   <li>
-                    <h5>Customized Solutions</h5>
+                    <h5 class="text-success">Customized Solutions</h5>
                     <p>Services are professional w offerings provided.</p>
                   </li>
                   <li>
-                    <h5>Quality Reliability</h5>
+                    <h5 class="text-success">Quality Reliability</h5>
                     <p>Services are professional w offerings provided.</p>
                   </li>
                 </ul>

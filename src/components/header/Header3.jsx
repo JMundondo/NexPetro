@@ -229,6 +229,7 @@ function Header3() {
               <div className="hotline pt-30">
                 <div className="hotline-icon">
                   <svg
+                    class="text-success"
                     width={26}
                     height={26}
                     viewBox="0 0 26 26"

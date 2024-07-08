@@ -57,7 +57,7 @@ function Footer3() {
                     </svg>
                   </div>
                   <div className="content">
-                    <span>Call Any Time</span>
+                    <span class="text-success">Call Any Time</span>
                     <h6>
                       <a href="tel: +263716048432">+263 71 604 8432</a>
                     </h6>
@@ -73,7 +73,7 @@ function Footer3() {
           <div className="col-lg-4 col-sm-6 d-flex">
             <div className="footer-widget">
               <div className="footer-contact mb-40">
-                <h4>
+                <h4 class="text-success">
                   <svg
                     width={14}
                     height={20}
@@ -87,7 +87,7 @@ function Footer3() {
                 <a href="#">something Gweru</a>
               </div>
               <div className="footer-contact mb-40">
-                <h4>
+                <h4 class="text-success">
                   <svg
                     width={20}
                     height={20}
@@ -101,7 +101,7 @@ function Footer3() {
                 <a href="mailto:songwef@gmail.com">songwef@gmail.com</a>
               </div>
               <div className="footer-contact">
-                <h6>See Our New updates</h6>
+                <h6 class="text-success">See Our New updates</h6>
                 <form>
                   <div className="form-inner">
                     <input
@@ -132,7 +132,7 @@ function Footer3() {
           <div className="col-lg-3 col-sm-6 d-flex justify-content-lg-start justify-content-sm-end">
             <div className="footer-widget">
               <div className="widget-title">
-                <h4>Our Products</h4>
+                <h4 class="text-success">Our Products</h4>
               </div>
               <div className="menu-container">
                 <ul>
@@ -173,7 +173,7 @@ function Footer3() {
           <div className="col-lg-2 col-sm-6 d-flex justify-content-lg-center">
             <div className="footer-widget">
               <div className="widget-title">
-                <h4>Company</h4>
+                <h4 class="text-success">Company</h4>
               </div>
               <div className="menu-container">
                 <ul>
@@ -201,7 +201,7 @@ function Footer3() {
           <div className="col-lg-3 col-sm-6 d-flex justify-content-sm-end">
             <div className="footer-widget">
               <div className="widget-title">
-                <h4>Resources</h4>
+                <h4 class="text-success">Resources</h4>
               </div>
               <div className="menu-container">
                 <ul>
@@ -240,9 +240,11 @@ function Footer3() {
             <div className="col-lg-12">
               <div className="footer-btn-content">
                 <div className="copyright-area">
-                  <p>
+                  <p class="text-success">
                     ©Copyright {new Date().getFullYear()}{" "}
-                    <a href="#">Pacific-tech</a>
+                    <a href="#" class="text-success">
+                      NexPetro Private Limited
+                    </a>
                   </p>
                 </div>
                 <div className="footer-social">

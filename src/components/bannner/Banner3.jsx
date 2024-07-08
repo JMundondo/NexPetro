@@ -83,7 +83,9 @@ function Banner3() {
           <SwiperSlide className="swiper-slide">
             <div className="banner-wrapper">
               <div className="banner-content">
-                <h1>Elevate Your Business with NexPetro</h1>
+                <h1 class="text-success">
+                  Elevate Your Business with NexPetro
+                </h1>
                 <p>
                   At NexPetro, we are dedicated to providing top-quality
                   petroleum, bituminous products, industrial and agricultural
@@ -161,7 +163,7 @@ function Banner3() {
           <SwiperSlide className="swiper-slide">
             <div className="banner-wrapper">
               <div className="banner-content">
-                <h1>Trusted by Leading Organizations.</h1>
+                <h1 class="text-success">Trusted by Leading Organizations.</h1>
                 <p>
                   Trusted by leading organizations, NexPetro is a registered
                   supplier with the Procurement Regulatory Authority of
@@ -231,7 +233,7 @@ function Banner3() {
           <SwiperSlide className="swiper-slide">
             <div className="banner-wrapper">
               <div className="banner-content">
-                <h1>Commitment to Sustainability.</h1>
+                <h1 class="text-success">Commitment to Sustainability.</h1>
                 <p>
                   At NexPetro, we believe in sustainable practices that protect
                   the environment while driving business success. Our products

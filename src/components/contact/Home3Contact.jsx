@@ -8,8 +8,9 @@ function Home3Contact() {
         <div className="row">
           <div className="col-lg-12">
             <div className="contact-wrapper text-center">
-              <Marquee className="marquee_text">
-                We take care of your IT, So You Can Focus on Your Business.
+              <Marquee class="text-success" className="marquee_text">
+                We take care of your BITUMEN , FERTILIZER , BASE OIL and FUEL
+                OIL needs , So You Can Focus on Your Business.
               </Marquee>
               <div
                 className="contact-btn magnetic-item  wow animate fadeInUp"
@@ -17,7 +18,7 @@ function Home3Contact() {
                 data-wow-duration="1500ms"
               >
                 <Link legacyBehavior href="/contact">
-                  <a>
+                  <a class="text-success">
                     Contact With Us.
                     <svg
                       width={32}

@@ -58,7 +58,7 @@ function Testimonial3() {
         >
           <div className="col-lg-12 d-flex align-items-center justify-content-between gap-4 flex-wrap">
             <div className="section-title-3">
-              <h2>Happy Customers</h2>
+              <h2 class="text-success">Happy Customers</h2>
               <p>
                 Welcome to NexPetro Private Limited, a reputable brand ushering
                 Petroleum and Bituminous products, Industrial and Agricultural
@@ -114,7 +114,7 @@ function Testimonial3() {
                     <div className="testimonial-btm">
                       <div className="author-area">
                         <div className="author-content">
-                          <h4>Dave Linus</h4>
+                          <h4 class="text-success">Dave Linus</h4>
                           <span>CEO At https://www.thir13entravels.com</span>
                         </div>
                       </div>
@@ -169,7 +169,7 @@ function Testimonial3() {
                     <div className="testimonial-btm">
                       <div className="author-area">
                         <div className="author-content">
-                          <h4>Chris</h4>
+                          <h4 class="text-success">Chris</h4>
                           <span>CEO At https://roothub.ng</span>
                         </div>
                       </div>
@@ -211,7 +211,7 @@ function Testimonial3() {
                     <div className="testimonial-btm">
                       <div className="author-area">
                         <div className="author-content">
-                          <h4>Felix</h4>
+                          <h4 class="text-success">Felix</h4>
                           <span>CEO At htps://qataloog.com/</span>
                         </div>
                       </div>
@@ -266,7 +266,7 @@ function Testimonial3() {
                     <div className="testimonial-btm">
                       <div className="author-area">
                         <div className="author-content">
-                          <h4>Gboyega</h4>
+                          <h4 class="text-success">Gboyega</h4>
                           <span>CEO At https://power-plug.ng/</span>
                         </div>
                       </div>

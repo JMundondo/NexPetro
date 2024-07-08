@@ -35,7 +35,7 @@ function Contactpage() {
             <div className="col-lg-6">
               <div className="contact-content">
                 <span>CONTACT WITH US</span>
-                <h2>LET’S WORK TOGETHER?</h2>
+                <h2 class="text-success">LET’S WORK TOGETHER?</h2>
                 <p>
                   We have worls-class, flexible support via live chat, email and
                   hone. I guarantee that you’ll be able to have any issue
@@ -92,7 +92,7 @@ function Contactpage() {
             <div className="col-lg-6">
               <div className="contact-form-wrap">
                 <div className="form-tltle">
-                  <h5>Make a Free Consulting</h5>
+                  <h5 class="text-success">Make a Free Consulting</h5>
                 </div>
                 <div className="contact-form">
                   <form

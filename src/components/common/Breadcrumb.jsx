@@ -11,7 +11,7 @@ function Breadcrumb({ title, pageName, pageList }) {
             <div className="breadcrumb-wrapper">
               <div className="breadcrumb-cnt">
                 <span>{pageName}</span>
-                <h1>"{title}"</h1>
+                <h1 class="text-success">"{title}"</h1>
                 <div className="breadcrumb-list">
                   <Link legacyBehavior href="/">
                     <a>Home</a>
@@ -20,7 +20,7 @@ function Breadcrumb({ title, pageName, pageList }) {
                     src="assets/img/inner-pages/breadcrumb-arrow.svg"
                     alt=""
                   />
-                  {pageList}
+                  <p class="text-success">{pageList}</p>
                 </div>
               </div>
             </div>
