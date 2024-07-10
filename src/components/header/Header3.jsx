@@ -165,7 +165,7 @@ function Header3() {
               <img
                 alt="image"
                 className="img-fluid"
-                style={{ height: "10rem" }}
+                style={{ height: "10rem", width: "10rem" }}
                 src="/assets/img/logo_main.png"
               />
             </a>

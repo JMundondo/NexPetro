@@ -5,23 +5,6 @@ import React, { useState } from "react";
 function Footer3() {
   const [email, setEmail] = useState("");
   const [status, setStatus] = useState("");
-  const onSubmit = function submit(e) {
-    e.preventDefault();
-    axios
-      .post("/api/audience", { email })
-      .then((res) => {
-        if (res.status == 200) {
-          setStatus("SUCCESS");
-          setEmail("");
-        } else {
-          setStatus("ERROR");
-        }
-      })
-      .catch((error) => console.log({ error }));
-  };
-  const onChange = (e) => {
-    setEmail(e.target.value);
-  };
 
   return (
     <footer>
