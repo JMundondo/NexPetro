@@ -22,7 +22,7 @@ export function constructMetadata({
       title,
       description,
       images: [image],
-      creator: "@pacific_nig",
+      creator: "@tinasheMundondo",
     },
     icons,
     // metadataBase: new URL("https://pacific-professional.com.ng"),

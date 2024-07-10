@@ -100,33 +100,6 @@ function Footer3() {
                 </h4>
                 <a href="mailto:songwef@gmail.com">songwef@gmail.com</a>
               </div>
-              <div className="footer-contact">
-                <h6 class="text-success">See Our New updates</h6>
-                <form>
-                  <div className="form-inner">
-                    <input
-                      onChange={onChange}
-                      type="email"
-                      value={email}
-                      placeholder="Email here..."
-                    />
-                    <button onClick={onSubmit}>
-                      <svg
-                        width={17}
-                        height={17}
-                        viewBox="0 0 13 13"
-                        fill="none"
-                        xmlns="http://www.w3.org/2000/svg"
-                      >
-                        <path d="M0 1H12M12 1V13M12 1L0.5 12" />
-                      </svg>
-                    </button>
-                  </div>
-                </form>
-                <br />
-                {status == "SUCCESS" && <h6>Thank You!</h6>}
-                {status == "ERROR" && <h6>TRY AGAIN</h6>}
-              </div>
             </div>
           </div>
           <div className="col-lg-3 col-sm-6 d-flex justify-content-lg-start justify-content-sm-end">

@@ -100,7 +100,7 @@ function Contactpage() {
                     id="contactForm"
                     noValidate
                     onSubmit={submitForm}
-                    action="https://formspree.io/mrgydgyd"
+                    action="https://formspree.io/f/movaqgjy"
                     method="POST"
                   >
                     {" "}

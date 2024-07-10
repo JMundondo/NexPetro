@@ -19,13 +19,15 @@ function About3() {
             >
               <h2>Our Approach</h2>
               <p>
-                Welcome to Pacific Tech - Your one-stop solution for software
-                excellence, talent recruitment, seamless database migration, and
-                empowering coaching with comprehensive training. As a dynamic
-                software agency, we provide cutting-edge solutions tailored to
-                your needs. From assembling the right team to seamless
-                migrations and skill empowerment, partner with us to elevate
-                your business with innovation and expertise.
+                Welcome to NexPetro Private Limited, a reputable brand ushering
+                Petroleum and Bituminous products, Industrial and Agricultural
+                Chemicals in the Zimbabwean market and beyond. Our dedication is
+                to offer top class in our wide range of products and services
+                focused at forming lasting partnerships with our valued client
+                base. We have a strong backing of expertise in various lines of
+                professions which is an enabler on our part to read, understand
+                and respond most accordingly to the market trends and demands in
+                catering fully and effectively for our customers’ diverse needs.
               </p>
             </div>
             <div className="about-left">

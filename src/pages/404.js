@@ -13,11 +13,7 @@ function CustomError() {
                 <h1>
                   404 <span>Error</span>
                 </h1>
-                <p>
-                  We believe in delivering tailored solutions that are designed
-                  to address your turna unique requirements. We take the time to
-                  understand.
-                </p>
+
                 <Link legacyBehavior href="/">
                   <a className="primary-btn3">
                     <svg
